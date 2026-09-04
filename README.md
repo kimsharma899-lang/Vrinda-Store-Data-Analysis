@@ -4,7 +4,9 @@ An interactive **Microsoft Excel dashboard** designed to analyze Vrinda Store's 
 
 ## Dashboard Preview
 
-![Vrinda Store Dashboard](dashboard.png)
+## 📊 Dashboard Preview
+
+![Vrinda Store Dashboard](Dashboard.png)
 
 ##  Project Objective
 

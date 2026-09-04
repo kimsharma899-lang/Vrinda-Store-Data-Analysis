@@ -38,7 +38,7 @@ Pivot Tables • Pivot Charts • Slicers • Data Cleaning • Data Visualizati
 Focus on **women aged 30–49** in high-performing states and strengthen promotions through major channels such as **Amazon, Flipkart, and Myntra** using targeted discounts, offers, and campaigns.
 
 ##  Project File
-**Vrinda Store Data Analysis.xlsx** — Complete Excel workbook containing the dataset, analysis, charts, and interactive dashboard.
+[📥 View Excel Project](./Vrinda%20store%20data%20analysis%20(2).xlsx)
 
 ---
 

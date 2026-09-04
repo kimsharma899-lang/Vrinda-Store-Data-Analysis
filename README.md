@@ -1,4 +1,4 @@
-
+#  Vrinda Store Sales Analysis
 
 An interactive **Microsoft Excel dashboard** designed to analyze Vrinda Store's sales performance, customer behavior, product performance, and sales channels.
 
@@ -42,7 +42,6 @@ Focus on **women aged 30–49** in high-performing states and strengthen promoti
 
 ---
 
-###  Author
 
-**Kim**  
-Aspiring Data Analyst | Excel • SQL • Data Analytics
+
+
